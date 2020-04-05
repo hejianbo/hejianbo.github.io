@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 重新开始写博客了
+title: 每日一题: LeetCode 55.Jump Game
 tags:
 - leetcode
 categories: leetcode
