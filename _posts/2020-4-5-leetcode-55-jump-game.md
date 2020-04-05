@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 每日一题: LeetCode 55.Jump Game
+title: 每日一题 - LeetCode 55.Jump Game
 tags:
 - leetcode
 - 动态规划
