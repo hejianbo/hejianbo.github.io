@@ -3,6 +3,9 @@ layout: post
 title: 每日一题: LeetCode 55.Jump Game
 tags:
 - leetcode
+- 动态规划
+- 回溯
+- 贪婪
 categories: leetcode
 description: LeetCode 55.Jump Game
 ---
