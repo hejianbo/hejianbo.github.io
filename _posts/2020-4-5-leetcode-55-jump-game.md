@@ -10,7 +10,7 @@ categories: leetcode
 description: LeetCode 55.Jump Game
 ---
 
-## leet code 55. Jump Game
+# leet code 55. Jump Game
 
 ## 问题描述
 
