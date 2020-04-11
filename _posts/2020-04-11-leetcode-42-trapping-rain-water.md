@@ -253,3 +253,8 @@ class Solution {
 }
 ```
 
+计算结果
+```
+Runtime: 1 ms, faster than 92.65% of Java online submissions for Trapping Rain Water.
+Memory Usage: 39 MB, less than 37.67% of Java online submissions for Trapping Rain Water.
+```
