@@ -140,7 +140,7 @@ public class Codec {
 
 ## Solution 2 基于先序遍历
 
-同理也可以基于遍历方式
+同理也可以基于其它遍历方式
 
 ```java
 /**
