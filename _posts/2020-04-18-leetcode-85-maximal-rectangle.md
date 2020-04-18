@@ -3,7 +3,6 @@ layout: post
 title: 每日一题 - LeetCode 85.Maximal Rectangle
 tags:
 - leetcode
-- 动态规划
 categories: leetcode
 description: LeetCode 85.Maximal Rectangle
 ---
