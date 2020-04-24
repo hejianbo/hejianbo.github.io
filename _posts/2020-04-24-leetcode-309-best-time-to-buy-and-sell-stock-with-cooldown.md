@@ -33,7 +33,7 @@ Explanation: transactions = [buy, sell, cooldown, buy, sell]
 
 ## Solution 动态规划
 
-多状态转移问题.
+多状态转移问题. 这个答案是参考的bilibili视频做的.
 
 ```java
 class Solution {
@@ -43,7 +43,7 @@ class Solution {
         // 持有状态, 由休息状态-买入，或者持有状态-继续持久得到
         int[] hold = new int[n + 1];
         hold[0] = Integer.MIN_VALUE;
-        // 集出状态, 由持有状态-卖出得到
+        // 售出状态, 由持有状态-卖出得到
         int[] sold = new int[n + 1];
         // 休息状态, 由售出状态-休息得到，或者继续休息
         int[] rest = new int[n + 1];        
