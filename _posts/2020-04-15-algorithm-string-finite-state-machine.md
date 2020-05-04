@@ -3,7 +3,7 @@ layout: post
 title: 字符串-利用有限自动机进行字符串匹配
 tags:
 - 字符串
-categories: 算法
+categories: algorithm
 description: 利用有限自动机进行字符串匹配
 ---
 

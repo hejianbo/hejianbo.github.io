@@ -4,7 +4,7 @@ title: 排序-计数排序
 tags:
 - 排序
 - 计数排序
-categories: 算法
+categories: algorithm
 description: 计数排序
 ---
 

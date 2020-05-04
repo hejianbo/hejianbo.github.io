@@ -3,7 +3,7 @@ layout: post
 title: 字符串-KMP
 tags:
 - 字符串
-categories: 算法
+categories: algorithm
 description: KMP
 ---
 
