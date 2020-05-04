@@ -4,6 +4,7 @@ title: 每日一题 - 380.Insert Delete GetRandom O(1)
 tags:
 - leetcode
 - Design
+- Medium
 categories: leetcode
 description: LeetCode 380.Insert Delete GetRandom O(1) 
 ---

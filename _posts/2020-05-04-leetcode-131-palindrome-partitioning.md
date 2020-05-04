@@ -6,6 +6,7 @@ tags:
 - 回文串
 - 回溯
 - 动态规划
+- Medium
 categories: leetcode
 description: LeetCode 131.Palindrome Partitioning
 ---

@@ -5,6 +5,7 @@ tags:
 - leetcode
 - 广度优化搜索
 - 双队列
+- Medium
 categories: leetcode
 description: LeetCode 103.Binary Tree Zigzag Level Order Traversal
 ---
