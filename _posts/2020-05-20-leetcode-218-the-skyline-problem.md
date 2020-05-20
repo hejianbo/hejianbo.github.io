@@ -74,6 +74,7 @@ class Solution {
         
         // 最大堆
         PriorityQueue<Integer> maxQueue = new PriorityQueue<>((a, b) -> b - a);
+        // 维持上一次的高度, 所以只要最高的没有从队列移除, 比它低的building都会被忽略
         int prevHeight = 0;
         maxQueue.offer(prevHeight);
 
@@ -90,7 +91,7 @@ class Solution {
                 // 为正表示已经处理完了, 所以需要移除掉
                 maxQueue.remove(y);
             }
-
+            
             int currentHeight = maxQueue.peek();
             // 如果当前高度与上一次处理的有高度差, 则需要加入结果集中
             if (currentHeight != prevHeight) {
