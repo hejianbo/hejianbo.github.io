@@ -90,7 +90,7 @@ Output: false
 ```java
 class Solution {
     public boolean isMatch(String s, String p) {
-        
+        // 将连续的*号给转换成单个*号, 因为多个*号与单个*号是同样的效果
         StringBuilder sb = new StringBuilder();
         for (Character c : p.toCharArray()) {
             if (c == '*' && sb.length() > 0 && sb.charAt(sb.length() - 1) == '*') {
